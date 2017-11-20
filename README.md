@@ -1,9 +1,9 @@
 # Karlsburg
 This is the complete repository for **Karlsburg**. **Karlsburg** is a child-friendly role-playing-game.
 
-#Copyright
+# Copyright
 © Peter Kastberger, 2017
-#License
+# License
 Karlsburg as a setting can be freely distributed. This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Austria License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/at/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 You are free to:
@@ -23,7 +23,7 @@ under the same license as the original.
 The OneDice Role-playing Game is written by Peter Cakebread and Ken Walton. Please keep in mind, that the OneDice RPG is a commercial product. Visit their homepage to get more information and support these great folks by buying one (or more) of their games and books!
 http://clockworkandchivalry.co.uk/
 
-#Credits
+# Credits
 
 I’d like to thank the following persons and communities: foremost my family & friends for letting me do what I do and for the inspiration and motivation. The OneDice RPG community on Google+, Regelleichte Rollenspiele und Storygames on Google+, the folks on reddit.com/r/mapmaking, reddit.com/r/worldbuilding and tanelorn.net. The folks behind the OneDice RPG rules.
 
