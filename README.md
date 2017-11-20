@@ -24,6 +24,7 @@ The OneDice Role-playing Game is written by Peter Cakebread and Ken Walton. Plea
 http://clockworkandchivalry.co.uk/
 
 #Credits
+
 I’d like to thank the following persons and communities: foremost my family & friends for letting me do what I do and for the inspiration and motivation. The OneDice RPG community on Google+, Regelleichte Rollenspiele und Storygames on Google+, the folks on reddit.com/r/mapmaking, reddit.com/r/worldbuilding and tanelorn.net. The folks behind the OneDice RPG rules.
 
 I used some programs and fonts for this. Therefore I’d like to thank: the LibreOffice developers, the Inkscape developers, the MyPaint developers, the Krita developers, the GIMP developers. Lato font family by Lukasz Dziedzic, OpenComic font by Arthur Reeder with extra contributions by Gustav Hartvigsson. Cabin Sketch font by Pablo Impallari and Igino Marini.
