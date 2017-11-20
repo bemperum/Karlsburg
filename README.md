@@ -12,13 +12,17 @@ You are free to:
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 Under the following terms:
+
 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions
 under the same license as the original.
+
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 The OneDice Role-playing Game is written by Peter Cakebread and Ken Walton. Please keep in mind, that the OneDice RPG is a commercial product. Visit their homepage to get more information and support these great folks by buying one (or more) of their games and books!
 http://clockworkandchivalry.co.uk/
+
 #Credits
 I’d like to thank the following persons and communities: foremost my family & friends for letting me do what I do and for the inspiration and motivation. The OneDice RPG community on Google+, Regelleichte Rollenspiele und Storygames on Google+, the folks on reddit.com/r/mapmaking, reddit.com/r/worldbuilding and tanelorn.net. The folks behind the OneDice RPG rules.
 
